@@ -1,0 +1,10 @@
+Token:Token is smallest unit of code
+It contains: 1.Identifier ,keyword, operator, literal, separator, 
+
+Identifier:
+1.contains uppercase, lowercase letters, digits, and underscores
+2.lno special characters allowed
+3.ide can start with a letter or underscore but not with a digit
+4. cannot be a reserved keyword
+5. cannot contain spaces
+'''

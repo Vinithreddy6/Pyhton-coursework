@@ -1,0 +1,23 @@
+Simple – Easy to learn and understand because of its readable syntax.
+Interpreted – Executes code line by line without compilation.
+High-Level Language – Hides hardware-level details from the programmer.
+Object-Oriented – Supports classes and objects for code organization.
+Platform Independent – Runs on Windows, Linux, and macOS without modification.
+Dynamically Typed – No need to declare variable data types explicitly.
+Open Source – Free to use, modify, and distribute.
+Portable – Python programs can run on different platforms with little or no changes.
+Extensive Standard Library – Provides built-in modules for many common tasks.
+Extensible – Can be extended using C, C++, or other languages.
+Embeddable – Python code can be embedded into other programming languages.
+Automatic Memory Management – Uses garbage collection to manage memory automatically.
+Free and Community Supported – Large developer community with continuous updates.
+GUI Support – Can build desktop applications using libraries like Tkinter.
+Database Connectivity – Supports databases such as MySQL, SQLite, and PostgreSQL.
+Scripting Language – Used for automation and task scripting.
+Rich Third-Party Libraries – Thousands of packages available through pip.
+Exception Handling – Handles runtime errors using try, except, and finally.
+Four Pillars of OOP
+Encapsulation – Wrapping data and methods together into a single unit (class).
+Abstraction – Hiding implementation details and showing only essential features.
+Inheritance – Creating a new class from an existing class to reuse code.
+Polymorphism – One interface with multiple implementations.
