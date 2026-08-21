@@ -1,0 +1,13 @@
+conditional statements
+1.simpleif
+2.if else
+3.elif ladder
+4.nested if
+
+if condition:
+    statements
+
+if condition:
+    statement
+else condition:
+     statement
